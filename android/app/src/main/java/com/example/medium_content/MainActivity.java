@@ -1,4 +1,4 @@
-package com.example.medium_context;
+package com.example.medium_content;
 
 import io.flutter.embedding.android.FlutterActivity;
 
